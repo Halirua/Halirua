@@ -1,4 +1,6 @@
-### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Halirua)]
+### 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Halirua?theme=gotham)]
 
 <!--
 **

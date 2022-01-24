@@ -1,9 +1,12 @@
-### 
+### Hi there 👋
+
+
 [![Repos Badge](https://badges.pufler.dev/repos/Halirua)](https://badges.pufler.dev) 
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/Halirua)](https://badges.pufler.dev) 
 [![Linkedin](https://img.shields.io/badge/social-linkedin-blue?style=flat&logo=linkedin)](https://linkedin.com/in/halirua)
 
 ![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=#0c1014) 
+![Java](https://img.shields.io/badge/java-000000?style=for-the-badge&logo=java&logoColor=orange) 
 ![HTML5](https://img.shields.io/badge/html5-000000?style=for-the-badge&logo=html5&logoColor=#0c1014) 
 ![CSS3](https://img.shields.io/badge/css3-000000?style=for-the-badge&logo=css3&logoColor=#0c1014) 
 ![MySQL](https://img.shields.io/badge/mysql-000000?style=for-the-badge&logo=mysql&logoColor=FFFFFF) 
@@ -26,9 +29,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on CS50
+- 🌱 I’m currently learning ... Python
+- 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...

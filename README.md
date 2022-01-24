@@ -1,7 +1,7 @@
 ### 
 [![Repos Badge](https://badges.pufler.dev/repos/Halirua)](https://badges.pufler.dev) [![Commits Badge](https://badges.pufler.dev/commits/monthly/Halirua)](https://badges.pufler.dev) [![Star on GitHub](https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=#0c1014)](https://linkedin.com/in/halirua)
 
-![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=#0c1014) ![HTML5](https://img.shields.io/badge/html5-000000?style=for-the-badge&logo=html5&logoColor=#0c1014) ![CSS3](https://img.shields.io/badge/css3-000000?style=for-the-badge&logo=css3&logoColor=#0c1014) ![MySQL](https://img.shields.io/badge/mysql-000000?style=for-the-badge&logo=mysql&logoColor=FFFFFF) ![Markdown](https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown&logoColor=#0c1014)
+![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=#0c1014) ![HTML5](https://img.shields.io/badge/html5-000000?style=for-the-badge&logo=html5&logoColor=#0c1014) ![CSS3](https://img.shields.io/badge/css3-000000?style=for-the-badge&logo=css3&logoColor=#0c1014) ![MySQL](https://img.shields.io/badge/mysql-000000?style=for-the-badge&logo=mysql&logoColor=FFFFFF) ![Markdown](https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown&logoColor=#0c1014) ![LaTeX](https://img.shields.io/badge/latex-000000?style=for-the-badge&logo=latex&logoColor=#0c1014)
 
 ![GitHub](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=#0c1014) ![Jira](https://img.shields.io/badge/jira-000000?style=for-the-badge&logo=jira&logoColor=#0c1014)
 

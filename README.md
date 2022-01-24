@@ -1,5 +1,7 @@
 ### 
 
+![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=#0c1014) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=#0c1014
 [![Abdul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Halirua&theme=gotham&)](https://github.com/anuraghazra/github-readme-stats)
 
 

@@ -1,6 +1,6 @@
 ### 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haliru&theme=gotham&langs_count=4)](https://github.com/Halirua/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haliru&theme=gotham&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--

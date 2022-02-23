@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-[![Repos Badge](https://badges.pufler.dev/repos/Halirua?style=for-the-badge&logo=repo)](https://badges.pufler.dev) 
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/Halirua)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/Halirua?style=flat-square&logo=repo)](https://badges.pufler.dev) 
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/Halirua?style=flat-square&logo=commits)](https://badges.pufler.dev)
 [![Linkedin](https://img.shields.io/badge/social-linkedin-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/halirua)
 
 ![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=#0c1014) 

@@ -4,6 +4,7 @@
 [![Repos Badge](https://badges.pufler.dev/repos/Halirua)](https://badges.pufler.dev) 
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/Halirua)](https://badges.pufler.dev) 
 [![Linkedin](https://img.shields.io/badge/social-linkedin-blue?style=flat&logo=linkedin)](https://linkedin.com/in/halirua)
+[![Linkedin](https://img.shields.io/badge/social-linkedin-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/halirua)
 
 ![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=#0c1014) 
 ![Java](https://img.shields.io/badge/java-000000?style=for-the-badge&logo=java&logoColor=orange) 

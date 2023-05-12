@@ -2,8 +2,7 @@
 
 
 [![Repos Badge](https://badges.pufler.dev/repos/Halirua?style=for-the-badge&logo=appveyor)](https://badges.pufler.dev) 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/y/halirua/halirua?logo=Commit&style=for-the-badge)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/Halirua?style=for-the-badge&logo=appveyor&logo=commits)](https://badges.pufler.dev)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/y/halirua/halirua?logo=Commit&style=flat-square)
 [![Linkedin](https://img.shields.io/badge/social-linkedin-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/halirua)
 
 ![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=#0c1014) 
